@@ -102,7 +102,7 @@ The data model follows a star schema with separate Date, Institution, and Financ
   [APRA_Banking_System_Insights_Report.pdf](APRA_Banking_System_Insights_Report.pdf)
 
 - 📘 **Data Model Design:**  
-  [Data Model Document.pdf](doc/Data%20Model%20Document.pdf)
+  [Data Model Document.pdf](Data%20Model%20Document.pdf)
 
 ---
 
